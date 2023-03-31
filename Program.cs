@@ -13,6 +13,7 @@ namespace UngDungChuyenDoiTienTe
             ti_gia = USD * 23000;
             Console.Write("So tien viet ban nhan sau khi chuyen doi la: " + ti_gia + "VND");
             ti_gia = float.Parse(Console.ReadLine());
+            int a;
         }
     }
 }
